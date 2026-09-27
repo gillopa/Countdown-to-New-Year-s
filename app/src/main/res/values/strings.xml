@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">До Нового года</string>
+    <string name="widget_name">Счётчик до Нового года</string>
+    <string name="widget_description">Сколько дней осталось до Нового года — в новогодней атмосфере</string>
+</resources>
